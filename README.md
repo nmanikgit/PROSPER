@@ -196,7 +196,7 @@ gdown 1IdgiBveqTXuyuQMfWp7ys8ZAmOeB52wa
 tar -zxvf example.tar.gz
 ```
 
-- Run the codes as instructed below (direcotries are needed to be changed based on your local directory), and you will get the example output same as [here]( https://drive.google.com/file/d/16CREbH4emYUHudvy5HpHSbwH5111X-9R/view?usp=sharing "example output"); Google Drive <file_id>: `16CREbH4emYUHudvy5HpHSbwH5111X-9R`; decompress by `tar -zxvf PROSPER_example_results.tar.gz` 
+- Run the codes as instructed below (directories are needed to be changed based on your local directory), and you will get the example output same as [here]( https://drive.google.com/file/d/16CREbH4emYUHudvy5HpHSbwH5111X-9R/view?usp=sharing "example output"); Google Drive <file_id>: `16CREbH4emYUHudvy5HpHSbwH5111X-9R`; decompress by `tar -zxvf PROSPER_example_results.tar.gz` 
     
 - Example codes for running lassosum2 and PROSPER:
 
