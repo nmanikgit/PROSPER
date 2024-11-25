@@ -262,7 +262,7 @@ For your reference, as shown in this example, for a two-ancestry analysis (EUR,A
 
 ## Support
 
-Please direct any problems or questions to Jingning Zhang (jingningzhang238@gmail.com).
+Please direct any problems or questions to Jingning Zhang (jingningzhang238@gmail.com). Please note that this is NOT the official PROSPER github - instead, this is just a fork of the official version with some simple edits of the README/documentation.   
 
 ## Citation
 
